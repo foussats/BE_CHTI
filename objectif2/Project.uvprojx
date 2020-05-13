@@ -388,11 +388,6 @@
               <FilePath>.\Src\principal.c</FilePath>
             </File>
             <File>
-              <FileName>Carre.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\Carre.s</FilePath>
-            </File>
-            <File>
               <FileName>trigo.s</FileName>
               <FileType>2</FileType>
               <FilePath>.\trigo.s</FilePath>
@@ -401,11 +396,6 @@
               <FileName>tables.s</FileName>
               <FileType>2</FileType>
               <FilePath>.\tables.s</FilePath>
-            </File>
-            <File>
-              <FileName>signal_entree.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\signal_entree.s</FilePath>
             </File>
             <File>
               <FileName>dft.s</FileName>
@@ -417,21 +407,6 @@
               <FileType>2</FileType>
               <FilePath>.\dftt.s</FilePath>
             </File>
-            <File>
-              <FileName>signal.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\signal.s</FilePath>
-            </File>
-            <File>
-              <FileName>signal2.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\signal2.s</FilePath>
-            </File>
-            <File>
-              <FileName>signal3.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\signal3.s</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
@@ -440,7 +415,7 @@
             <File>
               <FileName>gfssp72.lib</FileName>
               <FileType>4</FileType>
-              <FilePath>..\GFSSP72\GFSSP72\gfssp72.lib</FilePath>
+              <FilePath>.\gfssp72.lib</FilePath>
             </File>
           </Files>
         </Group>
@@ -841,11 +816,6 @@
               <FilePath>.\Src\principal.c</FilePath>
             </File>
             <File>
-              <FileName>Carre.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\Carre.s</FilePath>
-            </File>
-            <File>
               <FileName>trigo.s</FileName>
               <FileType>2</FileType>
               <FilePath>.\trigo.s</FilePath>
@@ -854,11 +824,6 @@
               <FileName>tables.s</FileName>
               <FileType>2</FileType>
               <FilePath>.\tables.s</FilePath>
-            </File>
-            <File>
-              <FileName>signal_entree.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\signal_entree.s</FilePath>
             </File>
             <File>
               <FileName>dft.s</FileName>
@@ -870,21 +835,6 @@
               <FileType>2</FileType>
               <FilePath>.\dftt.s</FilePath>
             </File>
-            <File>
-              <FileName>signal.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\signal.s</FilePath>
-            </File>
-            <File>
-              <FileName>signal2.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\signal2.s</FilePath>
-            </File>
-            <File>
-              <FileName>signal3.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\signal3.s</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
@@ -893,7 +843,7 @@
             <File>
               <FileName>gfssp72.lib</FileName>
               <FileType>4</FileType>
-              <FilePath>..\GFSSP72\GFSSP72\gfssp72.lib</FilePath>
+              <FilePath>.\gfssp72.lib</FilePath>
             </File>
           </Files>
         </Group>

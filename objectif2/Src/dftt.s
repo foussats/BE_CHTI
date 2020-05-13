@@ -1,6 +1,5 @@
 	thumb
 	area moncode, code,READONLY
-	extern TabSig2
 	extern TabSin
 	extern TabCos
 	extern reel_imag
