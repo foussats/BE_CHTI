@@ -7,7 +7,7 @@ Afin d'observer le tableau des socres ainsi que le tableau d'occurences on peut 
 Il est également possible de changer le signal envoyé, ce qui change le taux de bruit dans le signal.   
 Pour ceci il suffit de changer l'arguement dans la lagine Init_TimingADC_ActiveADC_ff( ADC1, 0x33 );  
 Les argumetns possibles sont : 0x33, 0x52, 0x3E, 0x3C, 0x31  
-0x31 est un cas limite
+0x3C et 0x31 sont des cas limites c'est-à-dire qu'aucun signal n'est détecté.
                
 ## Conclusion
 Objectif 2 terminé : on a un tableau de score qui est mis à jour lorsque la fréquence du joueur est détectée 
