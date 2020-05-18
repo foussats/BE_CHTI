@@ -388,24 +388,29 @@
               <FilePath>.\Src\principal.c</FilePath>
             </File>
             <File>
-              <FileName>trigo.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\trigo.s</FilePath>
-            </File>
-            <File>
               <FileName>tables.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\tables.s</FilePath>
+              <FilePath>.\Src\tables.s</FilePath>
+            </File>
+            <File>
+              <FileName>trigo.s</FileName>
+              <FileType>2</FileType>
+              <FilePath>.\Src\trigo.s</FilePath>
             </File>
             <File>
               <FileName>dft.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\dft.s</FilePath>
+              <FilePath>.\Src\dft.s</FilePath>
             </File>
             <File>
               <FileName>dftt.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\dftt.s</FilePath>
+              <FilePath>.\Src\dftt.s</FilePath>
+            </File>
+            <File>
+              <FileName>gassp72.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Src\gassp72.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -415,7 +420,7 @@
             <File>
               <FileName>gfssp72.lib</FileName>
               <FileType>4</FileType>
-              <FilePath>.\gfssp72.lib</FilePath>
+              <FilePath>.\Src\gfssp72.lib</FilePath>
             </File>
           </Files>
         </Group>
@@ -816,24 +821,29 @@
               <FilePath>.\Src\principal.c</FilePath>
             </File>
             <File>
-              <FileName>trigo.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\trigo.s</FilePath>
-            </File>
-            <File>
               <FileName>tables.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\tables.s</FilePath>
+              <FilePath>.\Src\tables.s</FilePath>
+            </File>
+            <File>
+              <FileName>trigo.s</FileName>
+              <FileType>2</FileType>
+              <FilePath>.\Src\trigo.s</FilePath>
             </File>
             <File>
               <FileName>dft.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\dft.s</FilePath>
+              <FilePath>.\Src\dft.s</FilePath>
             </File>
             <File>
               <FileName>dftt.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\dftt.s</FilePath>
+              <FilePath>.\Src\dftt.s</FilePath>
+            </File>
+            <File>
+              <FileName>gassp72.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Src\gassp72.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -843,7 +853,7 @@
             <File>
               <FileName>gfssp72.lib</FileName>
               <FileType>4</FileType>
-              <FilePath>.\gfssp72.lib</FilePath>
+              <FilePath>.\Src\gfssp72.lib</FilePath>
             </File>
           </Files>
         </Group>
