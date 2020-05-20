@@ -1,13 +1,12 @@
 # BE_CHTI
 __Auteurs :__ Léonie GALLLOIS, Morgane FOUSSATS, groupe E1.
 
-## Sujet
-L'objectif de ce BE est de cncevoir un jeu de tirs Laser multijoueur : chaque foi qu'un oueur tire dans une cible son score augmente. 
+## Détails
+Nous avons codé l'objectif trois consistant à l'émission d'un son. Nous l'avons fait avec le son bruitdeverre.asm.  
 
-## Objectifs 
-* Objectif 1 : Programmer la DFT en simulation sur un tableau de données imposés
-* Objectif 2 : Faire tourner la DFT « en réel » et gérer le score des 6 joueurs
-* Objectif 3 : Gérer le son (étape indépendante)
-* Objectif 4 : Projet final  
+Problème : nous observons bien que la variable TIM3_CCR3 varie dans le watch window, cependant dans le Logic Analyzer la variable reste à 0.
 
-Chaque branche du repository contient tous les fichiers créés pour la réalisation d'un objectif.
+               
+## Conclusion
+Objectif 3 en cours. Afin de mesurer les 91 microsecondes de période, il faut regarder le signal dans le Logic Analyzer et mesurer le temps écoulé entre chaque changement d'échantillon.
+
