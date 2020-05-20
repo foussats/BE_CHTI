@@ -383,24 +383,24 @@
           <GroupName>Sources</GroupName>
           <Files>
             <File>
-              <FileName>Carre.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\Src\Carre.s</FilePath>
-            </File>
-            <File>
-              <FileName>principal.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Src\principal.c</FilePath>
-            </File>
-            <File>
               <FileName>bruitverre.asm</FileName>
               <FileType>2</FileType>
               <FilePath>.\Src\bruitverre.asm</FilePath>
             </File>
             <File>
+              <FileName>Carre.s</FileName>
+              <FileType>2</FileType>
+              <FilePath>.\Src\Carre.s</FilePath>
+            </File>
+            <File>
               <FileName>gassp72.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\Src\gassp72.h</FilePath>
+            </File>
+            <File>
+              <FileName>principal.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Src\principal.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -420,7 +420,7 @@
             <File>
               <FileName>gassp72.lib</FileName>
               <FileType>4</FileType>
-              <FilePath>.\Src\gassp72.lib</FilePath>
+              <FilePath>..\GASSP72\gassp72.lib</FilePath>
             </File>
           </Files>
         </Group>
