@@ -388,11 +388,6 @@
               <FilePath>.\Src\bruitverre.asm</FilePath>
             </File>
             <File>
-              <FileName>Carre.s</FileName>
-              <FileType>2</FileType>
-              <FilePath>.\Src\Carre.s</FilePath>
-            </File>
-            <File>
               <FileName>gassp72.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\Src\gassp72.h</FilePath>
@@ -401,6 +396,11 @@
               <FileName>principal.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Src\principal.c</FilePath>
+            </File>
+            <File>
+              <FileName>signal_son.s</FileName>
+              <FileType>2</FileType>
+              <FilePath>.\Src\signal_son.s</FilePath>
             </File>
           </Files>
         </Group>
