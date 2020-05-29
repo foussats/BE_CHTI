@@ -15,7 +15,7 @@ int periode_ticks;	// 16
 type_etat etat;
 
 int PeriodeSon_tick=6552;
-int Periode_PWM_Tck=65520;
+int Periode_PWM_Tck=655;
 
 int main(void){
 	
